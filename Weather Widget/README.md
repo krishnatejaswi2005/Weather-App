@@ -14,7 +14,7 @@ This project uses the OpenWeatherMap API to fetch current weather data and displ
 
 To install and run the project, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/krishnatejaswi2005/weather-widget.git](https://github.com/krishnatejaswi2005/Weather-App.git)`
+1. Clone the repository: `git clone https://github.com/krishnatejaswi2005/Weather-App.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
