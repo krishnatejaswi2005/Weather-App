@@ -6,9 +6,9 @@ A React-based weather widget that displays current weather conditions and foreca
 
 This project uses the OpenWeatherMap API to fetch current weather data and displays it in a user-friendly interface. The widget includes features such as:
 
-* Search bar to find weather data for a specific city
-* Display of current temperature, humidity, and weather description
-* Display of forecast data, including high and low temperatures
+- Search bar to find weather data for a specific city
+- Display of current temperature, humidity, and weather description
+- Display of forecast data, including high and low temperatures
 
 ## Installation
 
@@ -30,15 +30,14 @@ The project uses the OpenWeatherMap API to fetch weather data. You can find more
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
 
-
 ## Dependencies
 
-* React
-* OpenWeatherMap API
-* Material-UI
-* Vite
+- React
+- OpenWeatherMap API
+- Material-UI
+- Vite
 
 ## Acknowledgments
 
-* OpenWeatherMap API for providing weather data
-* Material-UI for providing UI components
+- OpenWeatherMap API for providing weather data
+- Material-UI for providing UI components
